@@ -1,3 +1,3 @@
 # typetalk
-TypeTalk連携用
+TypeTalk連携用. 
 テスト用
